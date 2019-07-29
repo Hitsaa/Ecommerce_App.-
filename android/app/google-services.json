@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "116774190636",
+    "firebase_url": "https://ecom3-dcae4.firebaseio.com",
+    "project_id": "ecom3-dcae4",
+    "storage_bucket": "ecom3-dcae4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116774190636:android:14aa336ed0456a91",
+        "android_client_info": {
+          "package_name": "com.nithara.ecommerce3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116774190636-issbcoi25i2i769nrutg55rt1ec8h2v4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nithara.ecommerce3",
+            "certificate_hash": "523ec7d8767eb43b9b6213f374b49dab683b726a"
+          }
+        },
+        {
+          "client_id": "116774190636-sfoq5m1p4e82cad7to4vall9v51aeark.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgt6ROk0xOpcJeGsa0OpXTILx0eQ1Kmpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "116774190636-sfoq5m1p4e82cad7to4vall9v51aeark.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
